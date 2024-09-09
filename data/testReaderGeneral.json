@@ -1,0 +1,23 @@
+{
+    "Listings": [
+    {
+        "Address": "walter gage",
+        "OnCampus": true,
+        "ContactInfo": "p@gmail.com",
+        "Rent": "1000"
+    }
+],
+    "Favourites": [
+    {
+        "Address": "Walter Gage",
+        "OnCampus": true,
+        "ContactInfo": "pkhanna@gmail.com",
+        "Rent": "1000"
+    },
+    {
+        "Address": "Downtown",
+        "OnCampus": false,
+        "ContactInfo": "p@gmail.com",
+        "Rent": "5000"
+    }
+]}

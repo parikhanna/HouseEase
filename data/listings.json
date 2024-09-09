@@ -1,0 +1,14 @@
+{
+    "Listings": [{
+        "Address": "esad",
+        "OnCampus": false,
+        "ContactInfo": "erdf",
+        "Rent": "34r"
+    }],
+    "Favourites": [{
+        "Address": "esad",
+        "OnCampus": false,
+        "ContactInfo": "erdf",
+        "Rent": "34r"
+    }]
+}
